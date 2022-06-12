@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @G-Osso
-- 👀 I’m interested in progranmming.
+- 👀 I’m interested in programming, coding, Front-End developing...
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate at any well-known company which offers the opportunity to learn and experiment. 
 - 📫 How to reach me ...(you know how)
